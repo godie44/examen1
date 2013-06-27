@@ -1,2 +1,3 @@
 __author__ = 'Diego'
-print 'COMAN CACA'
+
+print "tome pal pinto"
